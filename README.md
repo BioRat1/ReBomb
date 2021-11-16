@@ -8,3 +8,5 @@ Make sure Webdriver is in your C drive. Webdriver contains the chromedriver need
 Make sure to copy full URL of the tiktok profile that you want to report
 
 Example: https://www.tiktok.com/@_jessica_allen__01?
+
+I used this on Windows by the way
