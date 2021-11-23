@@ -1,3 +1,8 @@
+Made by: BioRat
+My TikTok: https://www.tiktok.com/@biorat1?lang=en
+My Instagram: https://www.instagram.com/b1orat/
+
+
 # ReBomb
 TikTok Mass Report Bot
 
