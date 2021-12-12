@@ -14,4 +14,6 @@ Make sure to copy full URL of the tiktok profile that you want to report
 
 Example: https://www.tiktok.com/@_jessica_allen__01?
 
+FULL TUTORIAL HERE: https://youtu.be/yV80MCl235Y
+
 I used this on Windows by the way
