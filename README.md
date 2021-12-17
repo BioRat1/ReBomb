@@ -17,3 +17,22 @@ Example: https://www.tiktok.com/@_jessica_allen__01?
 FULL TUTORIAL HERE: https://youtu.be/yV80MCl235Y
 
 I used this on Windows by the way
+
+
+WHEN YOU DOWNLOAD THE ZIP FILE (tutorial)
+
+When you download the zip file, click on it
+
+Click on "tiktokreporter" file
+
+Scroll until you see "tiktokreporter" (its the Application)
+
+"Extract all" 
+
+"Extract"
+
+Click on "tiktokreporter" file 
+
+Scroll down until you see the "tiktokreporter" icon (looks like a floppy disk)
+
+Click on that.  If you get the "Windows Protected Your PC" warning, click on "More Info" and "Run Anyway" (not a virus, I swear lol).  Hope that helps
