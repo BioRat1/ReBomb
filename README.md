@@ -4,6 +4,15 @@ My Instagram: https://www.instagram.com/b1orat/
 
 
 # ReBomb
+
+
+NO LONGER WORKS, WILL BE MAKING ANOTHER ONE SOON. IF ANYONE WANTS TO IMPROVE THIS ONE, BE MY GUEST.
+
+
+
+
+
+
 TikTok Mass Report Bot
 
 Kinda my first "big" program so it may be buggy, but when it works, it works good. 
