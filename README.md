@@ -1,6 +1,6 @@
 Made by: BioRat
 
-My Instagram: https://www.instagram.com/b1orat/
+My Instagram: https://www.instagram.com/biorat1/
 
 
 # ReBomb
